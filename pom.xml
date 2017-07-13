@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>me.destinyshine.springcloudshowcase</groupId>
-    <artifactId>showcase-parsent</artifactId>
+    <artifactId>showcase-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
